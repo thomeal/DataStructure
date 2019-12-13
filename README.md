@@ -1,3 +1,3 @@
 # DataStructure
 数据结构课程设计
-I wish my first project could work
+It's my first project on GitHUb and I wish it could work properly
