@@ -1,4 +1,3 @@
-# DataStructure
-数据结构课程设计
-
-It's my first project on GitHUb and I wish it could work properly
+# Tank Maze
+This is a game recreated from 「Tank Trouble」. 
+We made some small improvements.
